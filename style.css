@@ -1,29 +1,17 @@
-#nav ul {
-    display: inline-block;
-    list-style-type: none;
-    margin-left: auto;
-}
-h1{
-    text-align: center;
-}
-h6{
-    text-align: center;
-}
-.container1{
-    margin-top: 25px;
-}
-.footer{
-    margin-top: 50px;
-}
 body{
-
-    background: rgb(31, 2, 10);
-    background: linear-gradient(90deg, rgb(21, 6, 10) 20%, rgb(17, 17, 28) 55%, rgb(32, 25, 85) 100%);
+  background: rgb(36,0,10);
+background: linear-gradient(90deg, rgba(36,0,10,1) 20%, rgba(9,9,121,1) 55%, rgb(24, 7, 43) 100%);
+}
+.some__class{
+    text-align: center;
+  }
+  .features{
+color: white;
+  }
+  .features1{
+    color: white;
     
-}
-input[type = "text"]
-{
-    background: transparent;
-    border: none;
-    color: whitesmoke;
-}
+
+  }
+  
+  
